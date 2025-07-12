@@ -1,0 +1,13 @@
+[1mdiff --git a/comidas_tipicas.html b/comidas_tipicas.html[m
+[1mindex ec2649b..15757de 100644[m
+[1m--- a/comidas_tipicas.html[m
+[1m+++ b/comidas_tipicas.html[m
+[36m@@ -4,7 +4,7 @@[m
+     <title>Comidas Típicas de Paraguay</title>[m
+ </head>[m
+ <body>[m
+[31m-    <h1> Comidas Típicas de Paraguay</h1>[m
+[32m+[m[32m    <h1> Comidas Típicas de Paraguay!</h1>[m
+     [m
+     <p>Paraguay cuenta con una rica tradición culinaria que refleja la fusión de raíces indígenas guaraníes y la influencia española. Sus comidas típicas se destacan por el uso de ingredientes autóctonos como el maíz, la mandioca, el queso y la carne.</p>[m
+     [m
